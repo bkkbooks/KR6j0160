@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0160/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說大白傘蓋總持陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0977.xml
+    old_id: T19n0977
+hash: sha256:5f502abd79d38cce2c1d3ff402bcd1e7a26b668cba161c7ab9dd698d2f9df402

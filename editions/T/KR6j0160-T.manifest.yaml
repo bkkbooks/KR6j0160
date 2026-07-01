@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0160/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0160/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說大白傘蓋總持陀羅尼經
+  identifiers:
+    krp: KR6j0160
+    cbeta: T19n0977
+    cbeta_old_id: T19n0977
+    authorityid: CA0000535
+    json_key: T0977
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0977.xml
+    old_id: T19n0977
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0160_000-T.yaml, hash: 'sha256:5f502abd79d38cce2c1d3ff402bcd1e7a26b668cba161c7ab9dd698d2f9df402'}
+  - {seq: 1, filename: KR6j0160_001-T.yaml, hash: 'sha256:b392a3908c1daac2b16e09c0e5dfb2e08d1ca5ed161bb0a715ee02ccfd247ef3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0160_000-T.markers.yaml, hash: 'sha256:5fadf2e2651f9ff007c7b032bfa0c0025edbca4b8bf5a02f19e5f3f962bb652d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0160_001-T.markers.yaml, hash: 'sha256:fced8edbb72f58882dce244a64771959611e2cff268f9774f32c19ea4257483c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0160_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4637
+  label: 佛說大白傘蓋總持陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:9c7003b5e960d05585b91bc2d214cddf6b4e20600a3e9c1c9f9deacfde10f752
